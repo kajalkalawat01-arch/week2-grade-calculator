@@ -1,0 +1,25 @@
+Student Grade Calculator - Test Data
+
+Student 1:
+Name: Rahul
+Subject 1: 85
+Subject 2: 90
+Subject 3: 80
+
+Student 2:
+Name: Priya
+Subject 1: 95
+Subject 2: 92
+Subject 3: 98
+
+Student 3:
+Name: Aman
+Subject 1: 35
+Subject 2: 40
+Subject 3: 30
+
+Student 4:
+Name: Neha
+Subject 1: 60
+Subject 2: 70
+Subject 3: 65
