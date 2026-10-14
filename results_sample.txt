@@ -1,0 +1,33 @@
+STUDENT GRADE CALCULATOR - SAMPLE RESULTS
+
+Name: Rahul
+Marks: [85.0, 90.0, 80.0]
+Total: 255.0
+Percentage: 85.00%
+Grade: A
+Comment: Very good! Keep it up.
+------------------------------
+
+Name: Priya
+Marks: [95.0, 92.0, 98.0]
+Total: 285.0
+Percentage: 95.00%
+Grade: A+
+Comment: Excellent work!
+------------------------------
+
+Name: Aman
+Marks: [35.0, 40.0, 30.0]
+Total: 105.0
+Percentage: 35.00%
+Grade: Fail
+Comment: Work harder next time.
+------------------------------
+
+Name: Neha
+Marks: [60.0, 70.0, 65.0]
+Total: 195.0
+Percentage: 65.00%
+Grade: C
+Comment: Good effort. Keep improving.
+------------------------------
